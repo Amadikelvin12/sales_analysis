@@ -38,10 +38,25 @@ in the initial data preparation phase, we performed the following tasks:
 
 EDA involved exploring the sales data to answer key questions, such as;
 - How have sales evolved annually?
+  
+  <img width="1102" height="360" alt="salesperyear" src="https://github.com/user-attachments/assets/ea63aca8-ab33-4046-9b55-10bde8e6dcfe" />
+
 - Which months generate the highest sales volume?
+  
+  <img width="1102" height="360" alt="sales per month" src="https://github.com/user-attachments/assets/aaa7e3a3-4e96-4fd4-b101-88bbb7b916a1" />
+
 - Which countries contribute the most revenue?
+  
+  <img width="1102" height="360" alt="sales per country" src="https://github.com/user-attachments/assets/3d802b13-24d5-4e97-b7b7-902fbc5f9ebd" />
+
 - What types of products do customers order the most?
+  
+  <img width="1102" height="360" alt="most ordered products" src="https://github.com/user-attachments/assets/8c5a0caf-786b-4bc2-9991-55d07fa6b9fd" />
+
 - What are the top 5 best-selling products based on total revenue?
+  
+  <img width="1102" height="360" alt="sales per products" src="https://github.com/user-attachments/assets/4b79d34f-2aeb-4108-91cd-f5dfe975bbb6" />
+
 
 ### Data Analysis
 
